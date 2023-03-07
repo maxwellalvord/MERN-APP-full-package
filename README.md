@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,nodejs,react&theme=dark)](https://www.mongodb.com/mern-stack)
 
 ## Setup/ Installation
-* Clone this repository and open in text editor of choice.
+* Clone these repos [client](https://github.com/maxwellalvord/instagramMERNclient) - [server](https://github.com/maxwellalvord/instagramMERNserver) and open in text editor of choice.
 * cd into the each folder named client and server and run `npm install`.
 * On the root level of the server folder create a file called .env
 * inside of the file write 
