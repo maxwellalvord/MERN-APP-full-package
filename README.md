@@ -5,6 +5,13 @@
 ## Technology Used
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,nodejs,react&theme=dark)](https://www.mongodb.com/mern-stack)
 
+<img
+  src="./societyDark.PNG"
+  alt="The Society"
+  title="The Society"
+  style=" margin: 0 auto; max-width: 600px"
+  />
+
 ## Setup/ Installation
 * Clone these repos [client](https://github.com/maxwellalvord/instagramMERNclient) - [server](https://github.com/maxwellalvord/instagramMERNserver) and open in text editor of choice.
 * cd into the each folder named client and server and run `npm install`.
